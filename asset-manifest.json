@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mhakash/simple-editor/static/css/main.de964391.chunk.css",
+    "main.js": "/mhakash/simple-editor/static/js/main.929f2391.chunk.js",
+    "main.js.map": "/mhakash/simple-editor/static/js/main.929f2391.chunk.js.map",
+    "runtime-main.js": "/mhakash/simple-editor/static/js/runtime-main.0d6ddc70.js",
+    "runtime-main.js.map": "/mhakash/simple-editor/static/js/runtime-main.0d6ddc70.js.map",
+    "static/css/2.fe1c1d21.chunk.css": "/mhakash/simple-editor/static/css/2.fe1c1d21.chunk.css",
+    "static/js/2.7c284b77.chunk.js": "/mhakash/simple-editor/static/js/2.7c284b77.chunk.js",
+    "static/js/2.7c284b77.chunk.js.map": "/mhakash/simple-editor/static/js/2.7c284b77.chunk.js.map",
+    "index.html": "/mhakash/simple-editor/index.html",
+    "precache-manifest.a704a600237d449aeb297b83d5bd2954.js": "/mhakash/simple-editor/precache-manifest.a704a600237d449aeb297b83d5bd2954.js",
+    "service-worker.js": "/mhakash/simple-editor/service-worker.js",
+    "static/css/2.fe1c1d21.chunk.css.map": "/mhakash/simple-editor/static/css/2.fe1c1d21.chunk.css.map",
+    "static/css/main.de964391.chunk.css.map": "/mhakash/simple-editor/static/css/main.de964391.chunk.css.map",
+    "static/js/2.7c284b77.chunk.js.LICENSE.txt": "/mhakash/simple-editor/static/js/2.7c284b77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6ddc70.js",
+    "static/css/2.fe1c1d21.chunk.css",
+    "static/js/2.7c284b77.chunk.js",
+    "static/css/main.de964391.chunk.css",
+    "static/js/main.929f2391.chunk.js"
+  ]
+}
